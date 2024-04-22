@@ -142,20 +142,20 @@
 
 ## Output Screen-shots:
 The Home page of the application that displays real time data of stock prices.
-![image](https://github.com/Xcalius10/stockers2.0/assets/103929590/7f516759-bc33-4d30-9b4c-5177298e1e9d)
+![image](https://github.com/Xcalius10/STOCKER2.0/assets/103929590/765a5d4e-f66c-4c1d-984e-052cdfc538c9)
 
 To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button.
-![image](https://github.com/Xcalius10/stockers2.0/assets/103929590/4d55c91e-2684-44b6-ada4-2170ea7e69c5)
+![image](https://github.com/Xcalius10/STOCKER2.0/assets/103929590/205cd189-1d44-4ded-afbe-97113e16364d)
 
 This page displays the predicted stock price alsong with searched ticker details and also generating unique QR Code to view the predicted result.
-![image](https://github.com/Xcalius10/stockers2.0/assets/103929590/6f38b801-d8e5-4074-9c78-fd70a765097c)
+![image](https://github.com/Xcalius10/STOCKER2.0/assets/103929590/d8ff8d3e-9328-4d36-b9a3-94555ddd948a)
 
 The Left Graph is the real time stock price of the searched ticker for past 1day & the Right Graph is the predicted stock price for the number of days searched.
-![image](https://github.com/Xcalius10/stockers2.0/assets/103929590/0506a779-f1e7-4a01-ad34-70d8bcc813f2)
+![image](https://github.com/Xcalius10/STOCKER2.0/assets/103929590/4ece72b5-0262-463e-a7be-45374d32d4c0)
 
 The Ticker Info page displays the details of all the valid tickers accepted by the application.
+![image](https://github.com/Xcalius10/STOCKER2.0/assets/103929590/68ae6378-5c1b-4e9e-be54-f07babf5d7c0)
 
-![image](https://github.com/Xcalius10/stockers2.0/assets/103929590/38de0f48-56f6-4726-9dfc-afe2941fbabd)
 
 
 
