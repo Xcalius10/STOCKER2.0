@@ -86,7 +86,7 @@
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone [https://github.com/Xcalius10/STOCKER2.0.git}
+  git clone https://github.com/Xcalius10/STOCKER2.0.git
 ```
 
 **STEP 2:** Change the directory to the repository.
